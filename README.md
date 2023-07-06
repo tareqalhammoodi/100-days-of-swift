@@ -22,3 +22,5 @@
 [Project1](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project1) 
 
 [Project2](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project2) 
+
+[Project3](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project3) 
