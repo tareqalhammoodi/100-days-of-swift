@@ -24,3 +24,9 @@
 [Project2](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project2) 
 
 [Project3](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project3) 
+
+### Day 23: Consolidation II
+[Milestone](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone1) 
+
+### Days 24-31: Web views, user input, and Auto Layout
+[Project4](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project4) 
