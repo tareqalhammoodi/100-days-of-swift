@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B52BDC6D2A66B47800EF2CE5 /* Milestone2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Milestone2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52BDC6D2A66B47800EF2CE5 /* Milestone-Projects 4-6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Milestone-Projects 4-6.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52BDC702A66B47800EF2CE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B52BDC722A66B47800EF2CE5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B52BDC742A66B47800EF2CE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B52BDC6E2A66B47800EF2CE5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B52BDC6D2A66B47800EF2CE5 /* Milestone2.app */,
+				B52BDC6D2A66B47800EF2CE5 /* Milestone-Projects 4-6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B52BDC6C2A66B47800EF2CE5 /* Milestone2 */ = {
+		B52BDC6C2A66B47800EF2CE5 /* Milestone-Projects 4-6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B52BDC812A66B47900EF2CE5 /* Build configuration list for PBXNativeTarget "Milestone2" */;
+			buildConfigurationList = B52BDC812A66B47900EF2CE5 /* Build configuration list for PBXNativeTarget "Milestone-Projects 4-6" */;
 			buildPhases = (
 				B52BDC692A66B47800EF2CE5 /* Sources */,
 				B52BDC6A2A66B47800EF2CE5 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Milestone2;
+			name = "Milestone-Projects 4-6";
 			productName = Milestone2;
-			productReference = B52BDC6D2A66B47800EF2CE5 /* Milestone2.app */;
+			productReference = B52BDC6D2A66B47800EF2CE5 /* Milestone-Projects 4-6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B52BDC682A66B47800EF2CE5 /* Build configuration list for PBXProject "Milestone2" */;
+			buildConfigurationList = B52BDC682A66B47800EF2CE5 /* Build configuration list for PBXProject "Milestone-Projects 4-6" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B52BDC6C2A66B47800EF2CE5 /* Milestone2 */,
+				B52BDC6C2A66B47800EF2CE5 /* Milestone-Projects 4-6 */,
 			);
 		};
 /* End PBXProject section */
@@ -337,7 +337,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B52BDC682A66B47800EF2CE5 /* Build configuration list for PBXProject "Milestone2" */ = {
+		B52BDC682A66B47800EF2CE5 /* Build configuration list for PBXProject "Milestone-Projects 4-6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B52BDC7F2A66B47900EF2CE5 /* Debug */,
@@ -346,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B52BDC812A66B47900EF2CE5 /* Build configuration list for PBXNativeTarget "Milestone2" */ = {
+		B52BDC812A66B47900EF2CE5 /* Build configuration list for PBXNativeTarget "Milestone-Projects 4-6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B52BDC822A66B47900EF2CE5 /* Debug */,
