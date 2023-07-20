@@ -39,5 +39,7 @@ Day 32: Consolidation III
 
 [Milestone: Projects 4-6](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone-Projects%204-6) 
 
+Days 33-40: Codable, buttons, and GCD
 
+[Project7](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project7) 
 
