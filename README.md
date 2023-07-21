@@ -43,3 +43,6 @@ Days 33-40: Codable, buttons, and GCD
 
 [Project7](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project7) 
 
+[Project8](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project8) 
+
+
