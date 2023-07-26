@@ -186,6 +186,7 @@ class ViewController: UIViewController {
                     solutions.append(solutionWord)
                     let bits = answer.components(separatedBy: "|")
                     letterBits += bits
+                    print(letterBits)
                 }
             }
         }

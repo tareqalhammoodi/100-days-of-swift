@@ -1,0 +1,10 @@
+apple
+book
+car
+jacket
+coffee
+newspaper
+twitter
+gym
+school
+swift
