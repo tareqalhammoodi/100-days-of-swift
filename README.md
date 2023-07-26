@@ -47,3 +47,8 @@ Days 33-40: Codable, buttons, and GCD
 
 [Project9](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project9) 
 
+Day 41: Consolidation IV
+
+[Milestone: Projects 7-9](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone-Projects%207-9) 
+
+
