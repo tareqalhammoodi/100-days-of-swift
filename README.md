@@ -51,4 +51,8 @@ Day 41: Consolidation IV
 
 [Milestone: Projects 7-9](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone-Projects%207-9) 
 
+Days 42-49: A whole new world
+
+[Project10](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project10) 
+
 
