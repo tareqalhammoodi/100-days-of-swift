@@ -16,8 +16,6 @@ class DetailViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
-        print(ViewController().pictures.count)
         title = "Picture \(X! + 1) of \(Y!)"
         navigationItem.largeTitleDisplayMode = .never
         
@@ -25,7 +23,7 @@ class DetailViewController: UIViewController {
             imageView.image = UIImage(named: imageToLoad)
         }
     }
-    
+    /*
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         navigationController?.hidesBarsOnTap = true
@@ -35,5 +33,5 @@ class DetailViewController: UIViewController {
         super.viewDidDisappear(animated)
         navigationController?.hidesBarsOnTap = false
     }
-
+     */
 }
