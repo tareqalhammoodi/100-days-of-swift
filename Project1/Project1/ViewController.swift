@@ -27,6 +27,7 @@ class ViewController: UITableViewController {
         } else {
             performSelector(inBackground: #selector(loadData), with: nil)
         }
+        pictures = pictures.sorted(by: { $0.name < $1.name })
     }
     
     @objc func loadData() {
