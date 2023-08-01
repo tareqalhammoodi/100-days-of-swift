@@ -59,3 +59,7 @@ Days 42-49: A whole new world
 
 [Project12](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project12)
 
+Days 50-51: Consolidation V
+
+[Milestone: Projects 10-12](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone-Projects%2010-12) 
+
