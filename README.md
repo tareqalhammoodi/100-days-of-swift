@@ -67,3 +67,7 @@ Days 52-58: Images and animation
 
 [Project13](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project13)
 
+[Project14](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project14)
+
+[Project15](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project15)
+
