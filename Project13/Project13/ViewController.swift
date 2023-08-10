@@ -25,6 +25,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         context = CIContext()
         currentFilter = CIFilter(name: "CISepiaTone")
         changeFilterButton.titleLabel?.text = "CISepiaTone"
+        imageView.alpha = 0.0
     }
     
     @objc func importPicture() {
@@ -41,6 +42,9 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         let beginImage = CIImage(image: currentImage)
         currentFilter.setValue(beginImage, forKey: kCIInputImageKey)
         applyProcessing()
+        UIView.animate(withDuration: 1, delay: 0, options: [] , animations: {
+            self.imageView.alpha = 1.0
+        })
     }
     
     func applyProcessing() {
