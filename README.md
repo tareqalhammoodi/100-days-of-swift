@@ -71,3 +71,6 @@ Days 52-58: Images and animation
 
 [Project15](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project15)
 
+Day 59: Consolidation VI
+
+[Milestone: Projects 13-15](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone-Projects%2013-15) 
