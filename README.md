@@ -81,4 +81,14 @@ Days 60-65: Maps and bugs
 
 [Project17](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project17)
 
+Project18
+
+Day 66: Consolidation VII
+
+[Milestone: Projects 16-18](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Milestone-Projects%2016-18) 
+
+Days 67-73: Leveling up
+
+[Project18](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project18)
+
 
