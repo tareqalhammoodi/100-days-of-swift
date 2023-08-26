@@ -89,6 +89,9 @@ Day 66: Consolidation VII
 
 Days 67-73: Leveling up
 
-[Project18](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project18)
+[Project19](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project19)
+
+[Project20](https://github.com/tareqalhammoodi/100-days-of-swift/tree/master/Project20)
+
 
 
